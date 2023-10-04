@@ -11,47 +11,12 @@ namespace UI
     {
         static void Main(string[] args)
         {
-            //TimeOnly currentTime = TimeOnly.FromDateTime(DateTime.Now);
-
-            //string timeString = currentTime.ToString();
-
-            //TimeOnly time = TimeOnly.Parse(timeString);
-
-            //Console.WriteLine(time);
-
-            //EfCompanyDal efCompanyDal = new EfCompanyDal();
-            //efCompanyDal.Delete(new Company { CompanyId = 1});
-            //Sorunsuz çalıştı
-
-
-            //DateTime date = DateTime.Now;
-            //string a = "12:00";
-            //string b = "17:00";
-            //TimeSpan time = date.TimeOfDay;
-
-            //TimeSpan atime = TimeSpan.Parse(a);
-            //TimeSpan btime = TimeSpan.Parse(b);
-
-            //bool result;
-
-            //if (time < atime || time>btime)
-            //{
-            //    result = false;
-            //}
-            //else
-            //{
-            //    result = true;
-            //}
-
-            //Console.WriteLine(result);
-            //time logic kısmı
 
             //CompanyTest();
             //OrderTest();
             //ProductTest();
 
             
-
 
         }
 
